@@ -1,4 +1,4 @@
-# DS & AI Internship — Final Submission (Uday)
+# AI Engineer project 
 
 Two FastAPI services covering resume screening and a customer support knowledge base assistant.
 
